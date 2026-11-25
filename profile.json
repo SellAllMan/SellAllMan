@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Oven",
-    "subtitle": "I am a solo developer. I can make Roblox, Minecraft cheat mostly Ai coded them :>",
+    "subtitle": "I am a solo developer. I can make Roblox, Minecraft cheat :>",
     "typing": true,
     "avatarShape": "cookie",
     "chips": [
@@ -47,8 +47,8 @@
         "label": "Mostly frontend"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "sports_esports",
+        "label": "Into Game Cheat "
       }
     ]
   },
@@ -118,16 +118,8 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://discord.gg/ZH9Gr8Xv"
       }
     ],
     "variant": "chip",
@@ -148,6 +140,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
