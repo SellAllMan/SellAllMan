@@ -1,5 +1,5 @@
 {
- "key": "841b3b0e",
+ "key": "dcc40bed",
  "stars": 0,
  "contributions": 98,
  "repos": 8,
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
